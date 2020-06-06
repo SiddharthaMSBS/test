@@ -1,0 +1,140 @@
+Uri: https://learning.cehrd.edu.np/
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\index.htm
+Content Type: text/html
+
+Uri: https://learning.cehrd.edu.np/favicon.ico
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://learning.cehrd.edu.np/js/pdfjsWorker.ce3b7837.js
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\js\pdfjsWorker.ce3b7837.js
+Content Type: application/javascript
+
+Uri: https://learning.cehrd.edu.np/css/app.ccd51433.css
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\css\app.ccd51433.css
+Content Type: text/css
+
+Uri: https://learning.cehrd.edu.np/css/chunk-vendors.b51bbd1e.css
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\css\chunk-vendors.b51bbd1e.css
+Content Type: text/css
+
+Uri: https://learning.cehrd.edu.np/js/app.98737aa2.js
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\js\app.98737aa2.js
+Content Type: application/javascript
+
+Uri: https://learning.cehrd.edu.np/js/chunk-vendors.c5ffbf09.js
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\js\chunk-vendors.c5ffbf09.js
+Content Type: application/javascript
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.826f649d.eot
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.826f649d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.826f649d.eot?
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.826f649d-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.f3aac3bc.otf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.f3aac3bc.otf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/img/Futura-Regular.ea7083aa.svg
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\Futura-Regular.ea7083aa.svg
+Content Type: image/svg+xml
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.31e2c465.ttf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.31e2c465.ttf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.c3b3b5bf.woff
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.c3b3b5bf.woff
+Content Type: application/font-woff
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Regular.78e5e792.woff2
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Regular.78e5e792.woff2
+Content Type: 
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBT-Medium.43b8b6af.woff2
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBT-Medium.43b8b6af.woff2
+Content Type: 
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBT-Medium.57cf35c5.woff
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBT-Medium.57cf35c5.woff
+Content Type: application/font-woff
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBT-Medium.0f56c874.ttf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBT-Medium.0f56c874.ttf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Bold-BT.874dd002.woff2
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Bold-BT.874dd002.woff2
+Content Type: 
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Bold-BT.25b98df0.woff
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Bold-BT.25b98df0.woff
+Content Type: application/font-woff
+
+Uri: https://learning.cehrd.edu.np/fonts/Futura-Bold-BT.7509ab66.ttf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\Futura-Bold-BT.7509ab66.ttf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.8f422653.eot
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.8f422653.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.8f422653.eot?
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.8f422653-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.a51c7553.otf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.a51c7553.otf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/img/FuturaBoldBT.a7168433.svg
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\FuturaBoldBT.a7168433.svg
+Content Type: image/svg+xml
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.6e3039e2.ttf
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.6e3039e2.ttf
+Content Type: application/font-sfnt
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.27049adb.woff
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.27049adb.woff
+Content Type: application/font-woff
+
+Uri: https://learning.cehrd.edu.np/fonts/FuturaBoldBT.85afda36.woff2
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\fonts\FuturaBoldBT.85afda36.woff2
+Content Type: 
+
+Uri: https://learning.cehrd.edu.np/img/dash-patterns.48a0b04b.svg
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\dash-patterns.48a0b04b.svg
+Content Type: image/svg+xml
+
+Uri: https://learning.cehrd.edu.np/img/Schoolkid.4617e88a.png
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\Schoolkid.4617e88a.png
+Content Type: image/png
+
+Uri: https://learning.cehrd.edu.np/img/banner3.090a3211.jpg
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\banner3.090a3211.jpg
+Content Type: image/jpeg
+
+Uri: https://learning.cehrd.edu.np/img/Blue-Pattern.eab79d2b.png
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\Blue-Pattern.eab79d2b.png
+Content Type: image/png
+
+Uri: https://learning.cehrd.edu.np/css/subjects.thumbnail
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\css\subjects.html
+Content Type: text/html
+
+Uri: https://learning.cehrd.edu.np/img/Yello-Pattern.90fe9d70.png
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\Yello-Pattern.90fe9d70.png
+Content Type: image/png
+
+Uri: https://learning.cehrd.edu.np/img/Pink-Pattern.73b2a2de.png
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\Pink-Pattern.73b2a2de.png
+Content Type: image/png
+
+Uri: https://learning.cehrd.edu.np/img/portalpattern.fec79862.png
+File Name: C:\Users\Admin\Desktop\MyWebsite\wow\learning.cehrd.edu.np\img\portalpattern.fec79862.png
+Content Type: image/png
+
